@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+data/
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+.venv
+env/
+db/
+
+# Ignore build outputs
+dist/
+db/random_forest_model.pkl
+
+random_forest_model.pkl
+db/
